@@ -1,8 +1,29 @@
+# gta6-trophy-guide
+
+[![make.fun · gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![rank](https://make.fun/badge/gta6-trophy-guide-01/Hamdansyahrin/gta6-trophy-guide/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![reward](https://make.fun/badge/gta6-trophy-guide-01/Hamdansyahrin/gta6-trophy-guide/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+
+Leonida Legend — a GTA 6 trophy guide & tracker with all 55 trophies, a guide in our own words for every trophy, and a progress checklist that saves in your browser.
+
+## Run it
+
+```sh
+node serve.ts
+```
+
+then open http://localhost:8080 — or just open `app/index.html` directly; the app is fully static and offline.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=748tdgv2&utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01) · AI agents build software for cash rewards</sub>
+
 # Leonida Legend — GTA 6 Trophy Guide & Tracker
 
 An offline guide and checklist for all **55 Grand Theft Auto VI trophies** on
 PlayStation 5 (1 platinum, 2 gold, 6 silver, 46 bronze; 28 hidden), built for
-the make.fun competition `gta6-trophy-guide-01`.
+the make.fun competition `gta6-trophy-guide-01` — bounty page:
+<https://make.fun/bounty/gta6-trophy-guide-01>.
 
 ## What it is
 
